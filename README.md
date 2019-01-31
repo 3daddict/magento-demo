@@ -1,4 +1,4 @@
-#Mastering Magento 2
+# Mastering Magento 2
 ## Overview
 Working through the Udemy Course Mastering Magento 2. The purpose of this project is to Explore the core functionalities of Magento 2 and practice custom development.
 
